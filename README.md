@@ -2,7 +2,7 @@
 
 <img src="assets/diamond_strip.png" width="100%" alt=""/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=FFD65C&center=true&vCenter=true&width=680&lines=%E2%98%86%E5%BD%A1+WELCOME+TO+MY+GITHUB+%E5%BD%A1%E2%98%86;Michael+Edlin+%2F+quisutdeus1;Founder%2C+Kentucky+AI;Div9+estimator+turned+AI-native+builder" alt="typing banner"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=FFD65C&center=true&vCenter=true&width=680&lines=%2A%2A%2A+WELCOME+TO+MY+GITHUB+%2A%2A%2A;Michael+Edlin+%2F+quisutdeus1;Founder%2C+Kentucky+AI;Div9+estimator+turned+AI-native+builder" alt="typing banner"/></a>
 
 <img src="assets/under_construction.gif" width="100%" alt="under construction"/>
 
