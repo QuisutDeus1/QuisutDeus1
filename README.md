@@ -25,7 +25,7 @@ I'm passionate about estimating, and about the continual improvement of systems 
 
 ### Stack
 
-Claude Code · Python · TypeScript/React · PostgreSQL · n8n · Docker
+Claude Code · Python · TypeScript/React · PostgreSQL · n8n · Docker · MCP · Vite · LoRA fine-tuning · Estimating & takeoff
 
 ---
 
