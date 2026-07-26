@@ -9,7 +9,7 @@ Founder, Kentucky AI
 
 ---
 
-I estimate Division 9 (flooring) work for a commercial general contractor. I started in takeoff and estimating, not software — I build the tools because I know exactly what the department needs them to do, and no one was going to build it for me.
+I'm passionate about estimating, and about the continual improvement of systems and processes that empower the people doing the work.
 
 ### Building
 
