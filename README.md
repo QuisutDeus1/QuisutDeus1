@@ -1,5 +1,4 @@
 <div align="center">
-<img src="assets/headshot.jpg" width="220" alt="Michael Edlin"/>
 
 # Michael Edlin
 Head of Estimating &amp; AI — commercial flooring contractor, Kentucky
