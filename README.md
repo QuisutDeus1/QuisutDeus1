@@ -8,6 +8,12 @@ Founder, <a href="https://kentucky-ai.com">Kentucky AI</a>
 
 </div>
 
+<p align="center">
+<img src="img/jobsite.jpg" width="100%" alt="Jobsite mid-demo: framing up, floor taken down to the original deck"/>
+</p>
+
+---
+
 I run estimating for a commercial flooring contractor and build the AI that runs the department. Everything here comes out of real bids, real supplier pricing, and real closeouts — not demos.
 
 ### Building
