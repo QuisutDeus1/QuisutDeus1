@@ -27,7 +27,7 @@ I run estimating for a commercial flooring contractor and build the AI that runs
 ### Now
 
 - Co-writing a research paper on AI takeoff with Alejandro Amador
-- Reading L. Ron Hubbard's *Mission Earth* series, and Asimov
+- Reading L. Ron Hubbard's *Mission Earth* series, Asimov, and American adventure and explorer histories
 - Riding a dual-sport on Kentucky dirt when the light's right
 
 ### How I work
