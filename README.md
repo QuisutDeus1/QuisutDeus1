@@ -1,7 +1,7 @@
 <div align="center">
 
 # Michael Edlin
-Head of Estimating &amp; AI — commercial flooring contractor, Kentucky<br/>
+Head of Estimating &amp; AI<br/>
 Founder, <a href="https://kentucky-ai.com">Kentucky AI</a>
 
 <a href="https://www.linkedin.com/in/michael-edlin-695127412/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://kentucky-ai.com">kentucky-ai.com</a> &nbsp;·&nbsp; <a href="https://github.com/Kentucky-ai/opentakeoff">OpenTakeoff</a>
