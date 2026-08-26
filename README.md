@@ -8,6 +8,11 @@ Founder, <a href="https://kentucky-ai.com">Kentucky AI</a>
 
 </div>
 
+<p align="center">
+<img src="img/ride.jpg" width="46%" alt="dual-sport at dusk, Kentucky dirt"/>&nbsp;&nbsp;
+<img src="img/jobsite.jpg" width="46%" alt="jobsite: framing up, floor down to the deck"/>
+</p>
+
 ---
 
 I run estimating for a commercial flooring contractor and build the AI that runs the department. Everything here comes out of real bids, real supplier pricing, and real closeouts — not demos.
@@ -25,6 +30,12 @@ I run estimating for a commercial flooring contractor and build the AI that runs
 <img src="https://img.shields.io/npm/dm/opentakeoff-mcp?style=flat-square&color=555&labelColor=eee&label=mcp%20downloads" alt="npm downloads"/>
 <img src="https://img.shields.io/github/license/Kentucky-ai/opentakeoff?style=flat-square&color=555&labelColor=eee" alt="license"/>
 </p>
+
+### Now
+
+- Co-writing a research paper on AI takeoff with Alejandro Amador
+- Reading L. Ron Hubbard's *Mission Earth* series, and Asimov
+- Riding a dual-sport on Kentucky dirt when the light's right
 
 ### How I work
 
