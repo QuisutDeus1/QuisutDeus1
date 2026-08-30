@@ -23,6 +23,10 @@ I run estimating for a commercial flooring contractor and build the AI that runs
 - **Kentucky AI** — applied-research shop for AI-native construction tooling. Wall-detection models, plan-reading pipelines, a takeoff/estimating model trained on production closeout data (patent pending).
 - **Spline** — the closed-source estimating platform OpenTakeoff grew out of, in daily use on live bids.
 
+<p align="center">
+<a href="https://github.com/Kentucky-ai/opentakeoff"><img src="img/opentakeoff-poster.png" width="420" alt="OpenTakeoff — Tomorrow's plans. Possible today."/></a>
+</p>
+
 **Watch an agent run a whole bid** — a real five-floor hotel, scope pasted in from the GC's email, no finish schedule in the set. Live `claude` session driving OpenTakeoff over MCP, no cuts, 13 minutes:
 
 <a href="https://youtu.be/O3p4QNHSd-I"><img src="img/hotel-takeoff.jpg" width="100%" alt="OpenTakeoff — AI agent runs a full hotel takeoff from a GC scope email (live, no cuts)"/></a>
