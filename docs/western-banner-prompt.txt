@@ -1,0 +1,7 @@
+Use case: stylized-concept.
+Asset type: wide illustrated banner for Michael Edlin's personal GitHub profile, QuisutDeus1.
+Primary request: a beautiful, austere literary western panorama inspired by the desert atmosphere of Blood Meridian and vintage western printmaking. Companion to an existing architectural science-fiction poster on aged ivory paper.
+Scene: an immense American southwestern desert at dusk, distant dark mesas, a deep rust-red sky fading into dusty ochre along the horizon, a small solitary horseback rider crossing the lower foreground, vast and quiet.
+Style: sophisticated antique lithograph / etched book illustration with fine engraved hatching, worn paper grain, restrained screenprint colors, cinematic landscape. Bone ivory, charcoal black, burnt sienna, oxblood red. Rich visual detail but exceptionally disciplined composition. No generic fantasy art.
+Composition: extra wide panoramic banner approximately 3:1 aspect ratio, landscape fills entire frame, small rider gives scale, open sky upper half, rough natural printed edges within the artwork. Designed to remain compelling at 850 pixels wide.
+Constraints: no text, lettering, logos, watermarks, gore, weapons, book covers, or specific fictional characters. Original atmospheric art, not a reproduction.
