@@ -55,7 +55,7 @@ The video shows an earlier interface: a live, uncut agent session working throug
 
 ### Now
 
-- Co-writing a research paper on AI takeoff with Alejandro Amador
+- Finished a research paper on AI takeoff with Alejandro Amador
 - Reading Cormac McCarthy's *Blood Meridian* and westerns
 - Playing futsal
 - Riding motorcycles
