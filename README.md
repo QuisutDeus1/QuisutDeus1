@@ -1,3 +1,7 @@
+<p align="center">
+<img src="img/western-banner.png" width="100%" alt="A lone rider beneath a rust-red sky, crossing an immense desert of dark mesas. Western landscape in the style of an aged lithograph."/>
+</p>
+
 <div align="center">
 
 # Michael Edlin
@@ -8,13 +12,9 @@ Founder, <a href="https://kentucky-ai.com">Kentucky AI</a>
 
 </div>
 
-<p align="center">
-<img src="img/jobsite.jpg" width="100%" alt="Jobsite mid-demo: framing up, floor taken down to the original deck"/>
-</p>
-
 ---
 
-I run estimating for a commercial flooring contractor and build the AI that runs the department. Everything here comes out of real bids, real supplier pricing, and real closeouts — not demos.
+I run estimating for a commercial flooring contractor and build AI tools for the work: reading plans, measuring scope, and putting bids together.
 
 ### Building
 
@@ -27,9 +27,24 @@ I run estimating for a commercial flooring contractor and build the AI that runs
 <a href="https://github.com/Kentucky-ai/opentakeoff"><img src="img/opentakeoff-poster.png" width="420" alt="OpenTakeoff — Tomorrow's plans. Possible today."/></a>
 </p>
 
-**Watch an agent run a whole bid** — a real five-floor hotel, scope pasted in from the GC's email, no finish schedule in the set. Live `claude` session driving OpenTakeoff over MCP, no cuts, 13 minutes:
+### OpenTakeoff, on the sheet
 
-<a href="https://youtu.be/O3p4QNHSd-I"><img src="img/hotel-takeoff.jpg" width="100%" alt="OpenTakeoff — AI agent runs a full hotel takeoff from a GC scope email (live, no cuts)"/></a>
+<a href="https://opentakeoff.kentucky-ai.com"><img src="img/opentakeoff-workspace.png" width="100%" alt="OpenTakeoff's redesigned workspace showing the bundled finish plan, drawing tools, and new annotation toolbar."/></a>
+
+<p align="center"><sub>The redesigned workspace · bundled public sample plan</sub></p>
+
+<details>
+<summary>See Sweep: find repeated labels and review the matches</summary>
+
+<p><img src="img/opentakeoff-sweep.png" width="100%" alt="Sweep finds 26 CPT-1 labels on the sample plan; 25 are selected for annotation, with one excluded in the review checklist."/></p>
+
+Find a repeated label, review each match, and apply annotations to the ones you choose.
+
+</details>
+
+[**Try OpenTakeoff →**](https://opentakeoff.kentucky-ai.com) · [**Watch the 13-minute hotel takeoff →**](https://youtu.be/O3p4QNHSd-I)
+
+The video shows an earlier interface: a live, uncut agent session working through a five-floor hotel from a GC scope email.
 
 <p>
 <img src="https://img.shields.io/github/stars/Kentucky-ai/opentakeoff?style=flat-square&color=555&labelColor=eee" alt="stars"/>
@@ -41,8 +56,9 @@ I run estimating for a commercial flooring contractor and build the AI that runs
 ### Now
 
 - Co-writing a research paper on AI takeoff with Alejandro Amador
-- Reading L. Ron Hubbard's *Mission Earth* series, Asimov, and American adventure and explorer histories
-- Riding a dual-sport on Kentucky dirt when the light's right
+- Reading Cormac McCarthy's *Blood Meridian* and westerns
+- Playing futsal
+- Riding motorcycles
 
 ### How I work
 
