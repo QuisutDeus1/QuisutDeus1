@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/western-banner.png" width="100%" alt="A lone rider beneath a rust-red sky, crossing an immense desert of dark mesas. Western landscape in the style of an aged lithograph."/>
+<img src="img/mallorca-banner.jpg" width="100%" alt="A lone motorcycle rider on hairpin switchbacks above the Mediterranean, limestone cliffs of the Serra de Tramuntana and a lighthouse headland at sunset. Mallorca landscape in the style of an aged lithograph."/>
 </p>
 
 <div align="center">
