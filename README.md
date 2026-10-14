@@ -18,7 +18,7 @@ I run estimating for a commercial flooring contractor and build AI tools for the
 
 ### Building
 
-- **[OpenTakeoff](https://github.com/Kentucky-ai/opentakeoff)** — open-source (Apache-2.0) PDF takeoff for construction. Runs entirely in the browser; plans never leave your machine. The first takeoff engine an AI agent drives natively over **MCP** — one-click room detection, materials and quantities, every number traceable to geometry on the sheet. [`opentakeoff-mcp` on npm](https://www.npmjs.com/package/opentakeoff-mcp).
+- **[OpenTakeoff](https://github.com/Kentucky-ai/opentakeoff)** — open-source PDF takeoff for construction. Runs entirely in the browser; plans never leave your machine. The first takeoff engine an AI agent drives natively over **MCP** — one-click room detection, materials and quantities, every number traceable to geometry on the sheet. [`opentakeoff-mcp` on npm](https://www.npmjs.com/package/opentakeoff-mcp).
 - **[OpenTakeoff Academy](https://github.com/Kentucky-ai/opentakeoff-academy)** — open benchmark and certification arena for construction-takeoff agents.
 - **Kentucky AI** — applied-research shop for AI-native construction tooling. Wall-detection models, plan-reading pipelines, a takeoff/estimating model trained on production closeout data (patent pending).
 - **Spline** — the closed-source estimating platform OpenTakeoff grew out of, in daily use on live bids.
